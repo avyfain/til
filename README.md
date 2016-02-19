@@ -41,6 +41,7 @@ I shamelessly stole this from
 
 ### Python
   - [Separate a list based on a condition](python/separate_list_by_condition.md)
+  - [Use `__slots__` to save memory](python/use_slots_to_save_memory.md)
 
 ### Rails
   - Nothing here yet, but it'll come soon...
