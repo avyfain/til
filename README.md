@@ -42,12 +42,13 @@ I shamelessly stole this from
 ### Python
   - [Separate a list based on a condition](python/separate_list_by_condition.md)
   - [Use `__slots__` to save memory](python/use_slots_to_save_memory.md)
+  - [Skipping slow py.test tests](python/mark_pytests_as_slow.md)
 
 ### Rails
   - Nothing here yet, but it'll come soon...
 
 ### Unix
-  - [difference between a 'terminal', a 'shell', a 'tty' and a 'console'](unix/term_differences.md)
+  - [Difference between a 'terminal', a 'shell', a 'tty' and a 'console'](unix/term_differences.md)
 
 ### General
   - Nothing here yet, but it'll come soon...
