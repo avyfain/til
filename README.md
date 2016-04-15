@@ -43,6 +43,7 @@ I shamelessly stole this from
   - [Separate a list based on a condition](python/separate_list_by_condition.md)
   - [Use `__slots__` to save memory](python/use_slots_to_save_memory.md)
   - [Skipping slow py.test tests](python/mark_pytests_as_slow.md)
+  - [Create context managars with `yield`](python/context_managers_with_yield.md)
 
 ### Rails
   - Nothing here yet, but it'll come soon...
