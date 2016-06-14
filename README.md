@@ -44,6 +44,7 @@ I shamelessly stole this from
   - [Use `__slots__` to save memory](python/use_slots_to_save_memory.md)
   - [Skipping slow py.test tests](python/mark_pytests_as_slow.md)
   - [Create context managars with `yield`](python/context_managers_with_yield.md)
+  - [Find 1st item matching a predicate in an iterable](python/find_the_first_match_in_iterable.md)
 
 ### Rails
   - Nothing here yet, but it'll come soon...
